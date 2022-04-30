@@ -15,11 +15,11 @@
  *
  * --[ Revisions ]--
  *
- * v1.0 - 01Mar22 - Initial Release
- * v1.1 - 03Mar22 - Fix sensor reading issues. Add PRINT_STATUS definition
- * v1.2 - 04MAR22 - Implemented Deep Sleep to save battery. Remove TaskScheduler.
- * v2.0 - 12MAR22 - Implement WifiManager and add config struct
- *
+ * v1.0  - 01Mar22 - Initial Release
+ * v1.1  - 03Mar22 - Fix sensor reading issues. Add PRINT_STATUS definition
+ * v1.2  - 04MAR22 - Implemented Deep Sleep to save battery. Remove TaskScheduler.
+ * v2.0  - 12MAR22 - Implement WifiManager and add config struct
+ * v2.01 - 30APR22 - Minor Code layout changes 
  * 
  * 
  * --[ TODO ]--
